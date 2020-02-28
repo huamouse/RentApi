@@ -1,0 +1,22 @@
+# VS Project file
+.vs/
+
+# Build and Object Folders  
+bin/  
+obj/  
+  
+# Nuget packages directory  
+packages/  
+  
+# User-specific files  
+*.suo  
+*.user  
+*.sln.docstates  
+ 
+# DocProject is a documentation generator add-in  
+DocProject/buildhelp/  
+DocProject/Help  
+UpgradeLog*.XML  
+
+# Backup file  
+*.bak
